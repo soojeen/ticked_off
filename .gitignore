@@ -1,2 +1,4 @@
 db/data/
+node_modules/
+
 notes.txt
